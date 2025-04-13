@@ -1,6 +1,6 @@
 import random 
 
-class Game
+class Game:
     def __init_(self):
         self.choices = {"Rock", "Paper", "Scissors", "Lizard", "Spock "}
         self.rules = { 
